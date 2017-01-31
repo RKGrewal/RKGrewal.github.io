@@ -1,4 +1,14 @@
-## Rumdeep K. Grewal
+### ABC model for floral development.
+Paper-VIII - Genetics and Molecular Biology(Unit7): Homeotic gene (Arabidopsis MADS-box). Please find pdf on [ABC model](ABC model https://www.dropbox.com/s/7gyzuh654ljl08a/ABC_Model__of_Flowering.pdf?dl=0), for further reading I recommend Taiz and Ziger (5th edition, chapter25, page 724).
+
+### Questions
+
+1. What are homeotic genes?
+2. What are MABS-box genes?
+3. Discuss ABC model of flowering/ for floral development.
+4. Discuss role of different floral identity genes in _Arabidopsis_ flower development.
+
+
 
 ## Welcome to GitHub Pages
 
