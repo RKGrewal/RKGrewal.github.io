@@ -9,7 +9,7 @@ Paper-VIII - Genetics and Molecular Biology(Unit7): Homeotic gene (Arabidopsis M
 1. What are homeotic genes?
 2. What are MABS-box genes?
 3. Discuss ABC model of flowering/ for floral development.
-4. Discuss role of different floral identity genes in _Arabidopsis_ flower development.
+
 
 ## Please ignore all text below this line
 
